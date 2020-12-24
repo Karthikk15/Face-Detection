@@ -1,0 +1,6 @@
+.rank {
+    color: white;
+}
+.rank p:last-child {
+    font-size: 20px;
+}

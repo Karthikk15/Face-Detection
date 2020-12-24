@@ -1,0 +1,7 @@
+.tilt-container {
+    margin-left: 10px;
+}
+.Tilt {
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+    background: linear-gradient(89deg, #FF5EDF 5%, #04C8DE 100%);
+}
