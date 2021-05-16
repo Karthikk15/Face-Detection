@@ -2,7 +2,7 @@ import React from 'react';
 import './uploadImage.css'
 const UploadImage = ({ onInputChange, onButtonSubmit }) => {
     return(
-<div>
+<div className='uploadImage'>
     <p>{'App, helps to detect the faces from the image.'}</p>
     <div className='arrange'>
         <div className='form shadow'>

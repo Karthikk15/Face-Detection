@@ -1,5 +1,5 @@
 import React from 'react';
-const FaceRecognition = ( {imageURL}) => {
+const FaceRecognition = ( {isfaceDetectionFailed,  imageURL}) => {
     return(
         <div style= {{display:'flex', justifyContent:'center'}}>
             <img id='face' style={{width:'500px', height:'auto'}} alt='facepick' src= {imageURL}></img>
